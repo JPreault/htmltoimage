@@ -1,0 +1,5 @@
+### Process de lancement
+
+1 - initialiser node
+2 - installer les packets node
+3 - lancer le server.js avec la fonction `node server.js`
