@@ -12,5 +12,13 @@
   "main": "server.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "1 - initialiser node\r 2 - installer les packets node\r 3 - lancer le server.js avec la fonction `node server.js`",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPreault/htmltoimage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JPreault/htmltoimage/issues"
+  },
+  "homepage": "https://github.com/JPreault/htmltoimage#readme"
 }
